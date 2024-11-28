@@ -4,7 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94fb447d-e504-4e94-8b2f-898c60e46081" name="Changes" comment="" />
+    <list default="true" id="94fb447d-e504-4e94-8b2f-898c60e46081" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/build.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0b386a78-c7d2-44cf-8027-d7af9ae8015c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/19fe4a9d-5b1c-44ab-a3fe-26c81ae2281c-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1ad622ea-5bba-41c9-ae78-c4722f15d101-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1c577b67-8e98-48bb-85be-b0cb0d535b83-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/209f781a-b2a3-49c9-97cb-771ddfd4132f-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/210ecdd0-056c-4b6e-9272-68ad20a52299-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/21e73541-4b2e-4183-b883-ef706add1929-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/265a2df9-43ca-4078-85ab-4654868a08a0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2b10acdf-22b3-4aca-9394-6cd1d2087ba5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/30718497-63a5-4592-adca-4866de911ef7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/35baf447-b036-4362-b388-22c68f3ccb17-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3f67d624-7c53-4400-b61e-947d51ce8509-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/46c1f30e-ead9-439c-939d-080666ba59c2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/47df17df-de6c-42c8-bf2a-f8ecfa15b24d-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/48d6daea-1993-4151-bdf5-530dfd9a0fba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4a055722-a2ac-40f5-a39c-f042c59df058-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4d795433-4624-4104-bf1e-362f25ee6046-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5110a869-4c50-4a42-99aa-e13ca26e4d5b-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/53b8943f-2f53-47f3-9190-48234c49ca38-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/541b5fda-76b9-4164-ba13-404fd6ffa145-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/62d227ad-1eee-4b4e-b490-e3680f69b32a-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/65c21f2a-e6f8-481f-af65-e1846e9cf819-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6a474255-e0f4-4d47-90f6-3a3dffb43c82-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/70e658d4-02fb-4c69-9361-d377928de94d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7c598aac-63ab-4cec-92e6-f7130c6b2971-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7cd0558d-9c87-40c8-8aae-2f4e71541a7b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7d2b5cba-680b-411f-bd5b-21a99837d1e2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/82014462-7ecc-4ee4-9c4a-e551089a765e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8b71ae92-e460-4095-8c06-77c33173684f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a15439ef-36f9-4e4d-ac82-5643eaf1bfa0-attachment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a425fa40-cbeb-4535-801e-5c163d07e068-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b50d1d01-6865-4dbd-9064-d2c1742d7dde-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b87ba161-f580-4a05-8533-ed0b569a764a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ba1c22a1-0467-4744-825e-fffd9729ea5a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ba7d8f00-c4da-402b-a89d-11dedba9528e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bfa6aafe-aa9a-4840-add5-8f5684d22b02-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ca063c9b-515f-4c1d-9c3e-f2c09b4e5e4b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cc25ed06-d983-46db-a679-ef35b4352731-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/cd446dee-4edc-4c16-abff-20f1555577b0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d8cb1c87-c952-4906-a3a7-b2de3e7451fd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e8128b7e-708d-4fb3-bd34-f1bb248277f2-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eace1a72-6527-4e7b-a288-eab14e3b52d7-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/eefb2c87-eda4-4ad2-8ff5-1c9fadce26e4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f028cd5f-9658-40a8-941d-9be0ac026132-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f5e3905d-7053-494a-8cae-ec075851832c-attachment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f8a80270-239b-41bb-ac00-22c8925f14b0-attachment.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/demo1/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/demo1/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/demo1/MainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/demo1/MainPageTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +65,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "js-green-2024"
+  }
+}]]></component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1732828802" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1732828801" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/js-green-2024/demo1.git",
+    "accountId": "4addfdca-bd89-4a28-8fde-debe010a9995"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -31,13 +120,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "JUnit.MainPageTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.BusquedaGoogle.executor": "Run",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/PC/Downloads/demo1/src/test/java/org/example/demo1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PC\Downloads\demo1\src\test\java\org\example\demo1" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1732827320189</updated>
-      <workItem from="1732827321190" duration="2000" />
+      <workItem from="1732827321190" duration="3346000" />
     </task>
     <servers />
   </component>

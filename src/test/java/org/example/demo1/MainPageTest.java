@@ -1,10 +1,12 @@
 package org.example.demo1;
+
 import com.codeborne.selenide.Configuration;
 import com.codeborne.selenide.Selenide;
 import org.openqa.selenium.chrome.ChromeOptions;
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.selenide.AllureSelenide;
 import org.junit.jupiter.api.*;
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import static com.codeborne.selenide.Condition.attribute;
@@ -14,15 +16,17 @@ import static com.codeborne.selenide.Selenide.*;
 public class MainPageTest {
     MainPage mainPage = new MainPage();
 
-@BeforeAll    public static void setUpAll() {
+    @BeforeAll
+    public static void setUpAll() {
         Configuration.browserSize = "1280x800";
         SelenideLogger.addListener("allure", new AllureSelenide());
     }
 
-@BeforeEach    public void setUp() {
+    @BeforeEach
+    public void setUp() {
         // Fix the issue https://github.com/SeleniumHQ/selenium/issues/11750
         Configuration.browserCapabilities = new ChromeOptions().addArguments("--remote-allow-origins=*");
-        open("https://www.jetbrains.com/");
+        open("https://google.com/");
     }
 
     @Test
@@ -49,5 +53,6 @@ public class MainPageTest {
 
         $("#products-page").shouldBe(visible);
 
-assertEquals("All Developer Tools and Products by JetBrains", Selenide.title());    }
+        assertEquals("GreenSQA", Selenide.title());
+    }
 }

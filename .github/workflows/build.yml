@@ -1,0 +1,15 @@
+name: Run PreFlight Tests
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+jobs:
+  # Run Preflight Tests
+  preflight-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Preflight cli and run tests
+        run: |
+          npm i -g @applitools/preflight-cli      
+          preflight --clientId="c7a63b22-24b2-4c39-812a-fc95c5683429" --clientSecret="3a5303ab-3b8b-4f2b-835a-b9a7094f16d0"
